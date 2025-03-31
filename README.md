@@ -1,0 +1,2 @@
+# L4D2_Route_table_rules
+用来屏蔽恶意绑组的服务器ip
